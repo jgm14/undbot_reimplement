@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+eggs/
+parts/
+wheels/
+*.egg
+lib/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Unit test / coverage reports
+.tox/
+.nox/
+coverage/
+.coverage
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Desktop.ini
+
+# Secrets
+.env
+config.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
