@@ -15,9 +15,13 @@ silearn/: Contains the implementation of the structural entropy learning algorit
 figs/: Contains the figures generated for the Twibot-22 tests and UnDBot performance which are present in the paper
 
 twibot22_preprocess/: Contains the combined preprocessed version of the full Twibot-22 dataset
+    
     sample1/: Contains the Twibot-22 sample neccessarry to conduct Experiment 1, Experiment 2, Experiment 5, and Experiment 6
+    
     sample2/: Contains the Twibot-22 sample neccessarry to conduct Experiment 3 and Experiment 7
+    
     sample3/: Contains the Twibot-22 sample neccessarry to conduct Experiment 4
+    
     sample4/: Contains the Twibot-22 sample neccessarry to conduct Experiment 8
 
 misc/: Contains a sample of various testing files and drafts of scripts which were created throughout the process of reimplementation
